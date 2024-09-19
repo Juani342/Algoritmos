@@ -1,3 +1,7 @@
+'''
+Cuanto cuesta un mango
+'''
+
 def mango(quantity, price):
     # Calcula la cantidad de mangos que se pagan
     paid_mangos = quantity - (quantity // 3)
