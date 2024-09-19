@@ -1,3 +1,7 @@
+'''
+Cual es el puntaje del jugador en un partido
+'''
+
 def nba_extrap(ppg, mpg):
     if mpg == 0:
         return 0
