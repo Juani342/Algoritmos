@@ -1,5 +1,5 @@
 '''
-Recorte de relacion de aspecto
+Convierte las monedas
 '''
 
 def usd_to_cny(usd):
