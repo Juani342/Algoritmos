@@ -1,3 +1,7 @@
+'''
+Resolucion del aspecto
+'''
+
 import math
 
 
