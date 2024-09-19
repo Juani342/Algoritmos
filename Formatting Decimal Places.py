@@ -1,3 +1,7 @@
+'''
+Formato de decimales
+'''
+
 def redondear_y_formatar(numero):
     # Redondear el número a dos decimales
     numero_redondeado = round(numero, 2)
