@@ -1,3 +1,7 @@
+'''
+Rangos de edades
+'''
+
 def edad_rango(edad):
     if edad > 14:
         # Usar la regla clásica
