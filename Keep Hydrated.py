@@ -1,3 +1,8 @@
+'''
+En cuanto tiempo tomare agua
+para hidratarme
+'''
+
 import math
 def litres(time):
     # Calcular la cantidad de litros
