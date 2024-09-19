@@ -1,3 +1,7 @@
+'''
+Calcula la presion total
+'''
+
 def calcular_presion(M1, M2, m1, m2, V, T):
     R = 0.082  # Constante de los gases en dm^3·atm·K⁻¹·mol⁻¹
 
