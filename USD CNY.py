@@ -1,3 +1,7 @@
+'''
+Recorte de relacion de aspecto
+'''
+
 def usd_to_cny(usd):
     # Tasa de conversión
     conversion_rate = 6.75
